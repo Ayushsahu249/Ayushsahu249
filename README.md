@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ayush Sahu 👋
+Aspiring Data Analyst | AI & Data Science Student | SQL • Python • Power BI
 
-<!--
-**Ayushsahu249/Ayushsahu249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data-driven solutions and dashboards to turn raw data into actionable insights.
 
-Here are some ideas to get you started:
+## 📂 Projects
+- Car Price Prediction – ML model predicting car prices using Python & Pandas
+- Credit Risk Predictor – Loan default classification using Random Forest & SQL
+- SQL Query Projects & Dashboards – 2nd highest salary, duplicates, JOINs, GROUP BY + HAVING
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+SQL | Python | Power BI | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | MySQL | Git
+
+## 📫 Contact
+sahuaayush897@gmail.com
